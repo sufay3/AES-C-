@@ -1,0 +1,7 @@
+LIBRARY AES
+
+EXPORTS
+
+    AESEncrypt @1
+	AESDecrypt @2
+    AESFree @3
